@@ -1,1 +1,1 @@
-# Marc-Andrei
+# Traffic-Light project
